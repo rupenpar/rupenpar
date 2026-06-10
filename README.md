@@ -1,8 +1,8 @@
 <h1 align="center">Greetings, I'm Rupen</h1>
 <div align="center"> 
     
-B.Tech 2nd Year | CSIT Major  
-Learning AI | Making Games
+B.Tech 3rd Year | CSIT Major  
+Building AI Systems | Game Development
 
 ## Socials
 <a href="https://www.linkedin.com/in/rupen-parthu/" style="text-decoration:none;">
